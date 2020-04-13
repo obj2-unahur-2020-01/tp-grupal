@@ -15,10 +15,15 @@ Todos los lenguajes son orientados a objetos. Cada integrante del grupo debe ser
 
 _Por ejemplo_, mostrar cómo son los constructores, cómo lo atributos, los métodos, si permite sobrecargar métodos , sobreescribirlos. Si existen las interfaces, la herencia múltiple. Son ejemplos, no una lista exhaustiva a cumplir
 
-La entrega implica hacer un repositorio con la presentación con reveal js y otro con código de ejemplo
+### Entrega 
+Deben presentar en un repositorio la presentación con reveal js y otro con código de ejemplo
 Los repositorios donde va a trabajar cada grupo van a ser definidos por les profesores
+#### Fecha de entrega
+28 de mayo de 2020 22:00hs
 
-Links útiles  https://revealjs.com/#/
+Es requisito indispensable la entrega del TP para poder rendir el primer parcial
 
+#### Links útiles  
+https://revealjs.com/#/
 
 
